@@ -1,1 +1,6 @@
 /bin/
+/LeetCode.iml
+/.classpath
+/.project
+/out/
+/.idea/
